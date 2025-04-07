@@ -48,7 +48,6 @@ frontend/
 ├── public/            # Archivos públicos
 └── index.html         # Punto de entrada HTML
  ```
-```
 
 ## Scripts Disponibles
 - npm run dev : Inicia el servidor de desarrollo
